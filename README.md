@@ -1,7 +1,13 @@
 # JavaScript
-JavaScript Used to Produce Worksheets for Teaching. 
+JavaScript used to Produce Worksheets for Teaching. 
 
-Anagrams and Word Soup are in Separate Directories. 
+Author: Paul Clark
+
+Date:   25/05/2009
+
+Language: JavaScript
+
+Code for Anagrams and Word Soup are in Separate Directories called Anagrams and Word V2.0. 
 
 To run Anagrams invoke Anagram.htm file. 
 This produces a Worksheet of Anagrams of the Words that you input. 
